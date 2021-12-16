@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   updateSelectionDay(selectedDay) {
-    if (this.state.selectedDay == selectedDay) return;
+    if (this.state.selectedDay === selectedDay) return;
     // get new events
     const date = `${selectedDay.day}/${selectedDay.month}/${selectedDay.year}`;
     const newEvents = events[date] || [];
@@ -48,7 +48,7 @@ class App extends Component {
               </div>
             </div>
             <div className='md:ml-5 md:my-0 my-10 w-full'>
-              {selectedDay == null
+              {selectedDay === null
                 ? 'Select a day'
                 : (events.length === 0
                   ? 'No Events for the day'
