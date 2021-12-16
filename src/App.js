@@ -56,7 +56,7 @@ class App extends Component {
                     {events.map((event, i) => <div key={i} className='m-4 border-black border-2 rounded-lg p-4'>
                       <h3>{event.title}</h3>
                       <p>{event.time}</p>
-                      <p>On {event.medium}</p>
+                      {event.medium !== 'Unknown' && <p>On {event.medium}</p>}
                     </div>)}
                   </div>)}
             </div>

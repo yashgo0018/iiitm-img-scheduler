@@ -6,7 +6,7 @@ function Navbar() {
                     <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
                 </svg>
                 <span class="ml-3 text-xl">IIITM IMG Sem 1 Scheduler</span>
-                <span class="ml-3 text-xl" title="By">V1</span>
+                <span class="ml-3 text-sm bg-blue-400 text-blue-100 px-3 rounded-xl py-1" title="By">V1</span>
             </span>
             <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
                 {/* <a class="mr-5 hover:text-gray-900">First Link</a>
