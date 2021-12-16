@@ -1,0 +1,22 @@
+{
+    "20/12/2021": [
+        {
+            "title": "Maths Class",
+            "time": "10:00 am to 11:00 am",
+            "medium": "Microsoft Teams",
+            "instructor": "sir"
+        },
+        {
+            "title": "Engg Physics Class",
+            "time": "12:00 pm to 1:00 pm",
+            "medium": "Webex",
+            "instructor": "sir"
+        },
+        {
+            "title": "Computer Science Class",
+            "time": "4:00 pm to 5:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
+        }
+    ]
+}
