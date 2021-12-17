@@ -11,6 +11,12 @@
             "time": "from 12:00 pm",
             "medium": "Unknown",
             "instructor": "sir"
+        },
+        {
+            "title": "Computer Programming Class",
+            "time": "4:00 pm to 5:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
         }
     ],
     "21/12/2021": [
@@ -39,6 +45,12 @@
             "time": "3:00 pm to 4:00 pm",
             "medium": "Unknown",
             "instructor": "sir"
+        },
+        {
+            "title": "Computer Programming Class",
+            "time": "4:00 pm to 5:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
         }
     ],
     "23/12/2021": [
@@ -59,6 +71,12 @@
         {
             "title": "Fundamentals of CS Class",
             "time": "3:00 pm to 4:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
+        },
+        {
+            "title": "Computer Programming Class",
+            "time": "4:00 pm to 5:00 pm",
             "medium": "Unknown",
             "instructor": "sir"
         }
