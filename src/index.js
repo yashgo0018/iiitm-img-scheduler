@@ -12,7 +12,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-serviceWorkerRegistration.register();
+serviceWorkerRegistration.unregister();
 
 
 // If you want to start measuring performance in your app, pass a function
