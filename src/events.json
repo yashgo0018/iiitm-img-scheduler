@@ -5,16 +5,54 @@
             "time": "10:00 am to 11:00 am",
             "medium": "Microsoft Teams",
             "instructor": "sir"
-        },
+        }
+    ],
+    "21/12/2021": [
         {
-            "title": "Engg Physics Class",
-            "time": "12:00 pm to 1:00 pm",
-            "medium": "Webex",
+            "title": "Maths Class",
+            "time": "10:00 am to 11:00 am",
+            "medium": "Microsoft Teams",
             "instructor": "sir"
         },
         {
-            "title": "Computer Science Class",
+            "title": "Fundamentals of CS Class",
             "time": "4:00 pm to 5:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
+        }
+    ],
+    "22/12/2021": [
+        {
+            "title": "Maths Class",
+            "time": "10:00 am to 11:00 am",
+            "medium": "Microsoft Teams",
+            "instructor": "sir"
+        },
+        {
+            "title": "Fundamentals of CS Class",
+            "time": "3:00 pm to 4:00 pm",
+            "medium": "Unknown",
+            "instructor": "sir"
+        }
+    ],
+    "23/12/2021": [
+        {
+            "title": "Maths Class",
+            "time": "10:00 am to 11:00 am",
+            "medium": "Microsoft Teams",
+            "instructor": "sir"
+        }
+    ],
+    "24/12/2021": [
+        {
+            "title": "Maths Class",
+            "time": "10:00 am to 11:00 am",
+            "medium": "Microsoft Teams",
+            "instructor": "sir"
+        },
+        {
+            "title": "Fundamentals of CS Class",
+            "time": "3:00 pm to 4:00 pm",
             "medium": "Unknown",
             "instructor": "sir"
         }
