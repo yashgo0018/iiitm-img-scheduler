@@ -11,12 +11,6 @@
             "time": "from 12:00 pm",
             "medium": "Unknown",
             "instructor": "sir"
-        },
-        {
-            "title": "Computer Programming Class",
-            "time": "4:00 pm to 5:00 pm",
-            "medium": "Unknown",
-            "instructor": "sir"
         }
     ],
     "21/12/2021": [
@@ -24,6 +18,12 @@
             "title": "Maths Class",
             "time": "10:00 am to 11:00 am",
             "medium": "Microsoft Teams",
+            "instructor": "sir"
+        },
+        {
+            "title": "Computer Programming Class",
+            "time": "11:30 am to 12:30 pm",
+            "medium": "Unknown",
             "instructor": "sir"
         },
         {
